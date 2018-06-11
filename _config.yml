@@ -2,6 +2,9 @@
 title: Jekyll
 timezone: UTC
 collections:
+  gallery:
+    title: Gallery
+    output: true
   posts:
     title: Posts
     output: true
