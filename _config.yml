@@ -3,7 +3,7 @@ title: Jekyll
 timezone: UTC
 collections:
   gallery:
-    title: Gallery
+    title: Consequences of your diets
     output: true
   posts:
     title: Posts
