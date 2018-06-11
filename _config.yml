@@ -8,6 +8,9 @@ collections:
   gallery:
     title: Consequences of your diets
     output: true
+  healthy-choices:
+    title: Healthy Choices
+    output: true
   posts:
     title: Posts
     output: true
