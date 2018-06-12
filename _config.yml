@@ -11,14 +11,14 @@ collections:
   healthy-choices:
     title: Healthy Choices
     output: true
-  posts:
-    title: Posts
-    output: true
   tags:
     title: Tags
     output: true
   uploads:
     title: Uploads
+    output: true
+  posts:
+    title: Write-ups
     output: true
 snipcart_api_key: 
 permalink: 
