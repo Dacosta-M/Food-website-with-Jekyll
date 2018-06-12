@@ -5,6 +5,7 @@ collections:
   classes-of-food:
     title: Classes of Food
     output: true
+    permalink: Foods/:path
   gallery:
     title: Consequences of your diets
     output: true
