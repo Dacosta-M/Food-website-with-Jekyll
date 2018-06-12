@@ -20,3 +20,5 @@ collections:
   uploads:
     title: Uploads
     output: true
+snipcart_api_key: 
+permalink: 
